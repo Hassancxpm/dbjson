@@ -1,0 +1,200 @@
+{
+  "teasers": [
+    {
+      "id": 1,
+      "firstName": "Emilie",
+      "lastName": "Hover",
+      "image": "https://picsum.photos/800/800/?random",
+      "city": "Paris",
+      "country": "France",
+      "address": "1336 my adress",
+      "email": "emilie.hover@lafabrique.com",
+      "phone": "+33 1 76 77 15 30",
+      "portable": "06 56 85 45 74",
+      "website": "http://www.google.com",
+      "blog": "http://www.monblog.com",
+      "cv": "http://www.linkedin.com",
+      "position": "CM",
+      "company": "La Fabrique",
+      "resume": "<p>Le Lorem Ipsum</p><p> est simplement du <a href='http://www.google.com'>faux</a> texte <strong>employé</strong> dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.</p><p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.</p><p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.</p><p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.</p><p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.</p><p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.</p>",
+      "userTypes": [
+        "speaker",
+        "vip",
+        "exposant"
+      ],
+      "tags": [
+        "keynote",
+        "Research track",
+        "VR",
+        "Retail",
+        "keynote",
+        "Research track",
+        "VR",
+        "Retail"
+      ],
+      "stand": "blabla"
+    },
+    {
+      "id": 2,
+      "firstName": "Pedro",
+      "lastName": "Elpatro",
+      "image": "https://picsum.photos/500/500/?random",
+      "city": "Montpellier",
+      "country": "France",
+      "email": "pedro.elpatro@lafabrique.com",
+      "position": "fermier",
+      "company": "La Fabrique du lait",
+      "resume": "lorem ipsum",
+      "userTypes": [
+        "farmer",
+        "milk",
+        "exposant"
+      ],
+      "stand": "blabla"
+    },
+    {
+      "id": 3,
+      "firstName": "toto",
+      "lastName": "hover",
+      "image": "https://picsum.photos/700/700/?random",
+      "city": "Montpellier",
+      "country": "France",
+      "email": "t@k.com",
+      "phone": "0105040602",
+      "position": "CM",
+      "company": "La Fabrique",
+      "resume": "lorem ipsum",
+      "userTypes": [
+        "web"
+      ]
+    },
+    {
+      "id": 4,
+      "firstName": "toto",
+      "lastName": "hover",
+      "image": "https://picsum.photos/200/300/?random",
+      "city": "Montpellier",
+      "country": "France",
+      "email": "t@k.com",
+      "phone": "0105040602",
+      "position": "CM",
+      "company": "La Fabrique",
+      "resume": "lorem ipsum",
+      "userTypes": [
+        "web"
+      ]
+    },
+    {
+      "id": 5,
+      "firstName": "toto",
+      "lastName": "hover",
+      "image": "https://picsum.photos/200/300/?random",
+      "city": "Montpellier",
+      "country": "France",
+      "email": "t@k.com",
+      "phone": "0105040602",
+      "position": "CM",
+      "company": "La Fabrique",
+      "resume": "lorem ipsum",
+      "userTypes": [
+        "web"
+      ]
+    },
+    {
+      "id": 6,
+      "firstName": "toto",
+      "lastName": "hover",
+      "image": "https://picsum.photos/200/300/?random",
+      "city": "Montpellier",
+      "country": "France",
+      "email": "t@k.com",
+      "phone": "0105040602",
+      "position": "CM",
+      "company": "La Fabrique",
+      "resume": "lorem ipsum",
+      "userTypes": [
+        "web"
+      ]
+    },
+    {
+      "id": 7,
+      "firstName": "toto",
+      "lastName": "hover",
+      "image": "https://picsum.photos/200/300/?random",
+      "city": "Montpellier",
+      "country": "France",
+      "email": "t@k.com",
+      "phone": "0105040602",
+      "position": "CM",
+      "company": "La Fabrique",
+      "resume": "lorem ipsum",
+      "userTypes": [
+        "web"
+      ]
+    },
+    {
+      "id": 8,
+      "firstName": "toto",
+      "lastName": "hover",
+      "image": "https://picsum.photos/200/300/?random",
+      "city": "Montpellier",
+      "country": "France",
+      "email": "t@k.com",
+      "phone": "0105040602",
+      "position": "CM",
+      "company": "La Fabrique",
+      "resume": "lorem ipsum",
+      "userTypes": [
+        "web"
+      ]
+    },
+    {
+      "id": 9,
+      "firstName": "toto",
+      "lastName": "hover",
+      "image": "https://www.placecage.com/250/300",
+      "city": "Montpellier",
+      "country": "France",
+      "email": "t@k.com",
+      "phone": "0105040602",
+      "position": "CM",
+      "company": "La Fabrique",
+      "resume": "lorem ipsum",
+      "userTypes": [
+        "web"
+      ]
+    },
+    {
+      "id": 10,
+      "firstName": "toto",
+      "lastName": "hover",
+      "image": "https://www.placecage.com/500/600",
+      "city": "Montpellier",
+      "country": "France",
+      "email": "t@k.com",
+      "phone": "0105040602",
+      "position": "CM",
+      "company": "La Fabrique",
+      "resume": "lorem ipsum",
+      "userTypes": [
+        "web"
+      ]
+    },
+    {
+      "id": 11,
+      "firstName": "toto",
+      "lastName": "hover",
+      "image": "https://www.placecage.com/600/800",
+      "city": "Montpellier",
+      "country": "France",
+      "email": "t@k.com",
+      "phone": "0105040602",
+      "position": "CM",
+      "company": "La Fabrique",
+      "resume": "lorem ipsum",
+      "userTypes": [
+        "web"
+      ]
+    }
+  ]
+}
